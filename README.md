@@ -12,8 +12,6 @@ Feel free to check out my [website](https://mehul-da.github.io/) as well!
 
 Thank you for visiting! :)
 
-![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehul-da&count_private=true&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-da&layout=compact&theme=cobalt)
+![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehul-da&count_private=true&show_icons=true)
 
 
