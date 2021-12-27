@@ -10,7 +10,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mehul-daruka/), [Faceb
 
 Feel free to check out my [website](https://mehul-da.github.io/) as well!
 
-Thank you for visiting! :)
+Thanks for visiting!
 
 ![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehul-da&count_private=true&show_icons=true)
 
