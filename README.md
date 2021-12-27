@@ -6,5 +6,14 @@
 - 📱 I also work part-time at a tech start-up called Dive Chat, where I'm helping rethink the way college students communicate!
 - ⚡ Fun fact: I spent most of my life living in Singapore! 🇸🇬
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mehul-daruka/), [Facebook](https://www.facebook.com/mehul.daruka/), [Instagram](https://www.instagram.com/mehul.da/) or through [email](mailto:mehuldaruka32@gmail.com)! 
+
+Feel free to check out my [website](https://mehul-da.github.io/) as well!
+
+Thank you for visiting! :)
+
 ![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehul-da&count_private=true&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-da&layout=compact&theme=cobalt)
+
 
